@@ -7,7 +7,7 @@ const {CookieAccessInfo, CookieJar, Cookie} = cookiejar
 
 let config = {
     httpprefix: 'https', port: 443,
-    serverName: 'siteproxy-hajd7lr60.vercel.app',
+    serverName: 'https://siteproxy-orpin.vercel.app/',
 }
 let blockedSites = [] // accessing to chase.com was reported by google
 
